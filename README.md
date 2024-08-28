@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java | Python | AI
 - 🌱 I’m currently learning AI & Machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nunuhlaing2011@gmail.com
+- 📫 How to reach me nu2hlaing.hello@gmail.com
 
 <!---
 NuNuHlaing/NuNuHlaing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
